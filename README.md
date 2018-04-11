@@ -1,5 +1,4 @@
 # M5Stack-MegaChess
-
 <br />   
 
 ![](Images/M5Stack-MegaChess.png) 
@@ -20,7 +19,8 @@
 
 ## Controls
 - Interface uses 3 buttons - left, choice, and right. 
-- Left and right to choose move (highlighted with green frames), choice button to make move, long press of choice button (more then half of second press and release) to open menu, or close menu and return to game mode.
+- Left and right to choose move (highlighted with green frames), choice button to make move.
+- Long press of choice button (more then half of second press and release) to open menu, or close menu and return to game mode.
 
 
 <br />
